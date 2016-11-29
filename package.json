@@ -5,9 +5,6 @@
     "description": "Dymmy Project.",
     "scripts": {
     },
-    "devDependencies": {
-        "mocha": "~2.3.4"
-    },
     "dependencies": {
         "jquery": "~3.1.0"
     }
