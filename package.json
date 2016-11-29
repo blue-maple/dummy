@@ -1,0 +1,14 @@
+{
+    "name": "dummy_project",
+    "version": "1.0.0",
+    "author": "dummy_user<dummy_user@example.co.jp>",
+    "description": "Dymmy Project.",
+    "scripts": {
+    },
+    "devDependencies": {
+        "mocha": "~2.3.4"
+    },
+    "dependencies": {
+        "jquery": "~3.1.0"
+    }
+}
