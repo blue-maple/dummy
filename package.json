@@ -7,6 +7,6 @@
     },
     "dependencies": {
         "jquery": "~3.1.0",
-        "lingq": "0.3.1"
+        "send": "~0.3.0"
     }
 }
