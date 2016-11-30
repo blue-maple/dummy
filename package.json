@@ -6,6 +6,7 @@
     "scripts": {
     },
     "dependencies": {
-        "jquery": "~3.1.0"
+        "jquery": "~3.1.0",
+        "lingq": "0.3.1"
     }
 }
